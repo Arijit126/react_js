@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    height: 280px;
+    width: 280px;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.details{
+    text-align: center;
+    padding: 30px;
+}
+.details button{
+    margin-top: 20px;
+}
